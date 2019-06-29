@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">	
+		<title>萌宠商城注册页面</title>
+		<link rel="stylesheet" href="../css/bootstrap.css"/>
+		<link rel="stylesheet" href="../css/reg.css"/>
+		<!--<link rel="stylesheet" href="../css/comm.css"/>-->
+	</head>
+	<body>
+		<!--头部-->
+		<header>
+        	<iframe class="my_header" src="header.html" frameborder="0" scrolling="no"></iframe>
+    	</header>
+    	<!--logo-->
+    	<div class="logo position-relative bg-white m-auto">
+    		<a href="index.html">
+    			<img class="img1 m-0" src="../images/index/logo.png"/>
+    		</a>
+    		<img class="position-absolute" src="../images/reg/tel.gif" alt="" />
+    		<ul class="position-absolute list-unstyled">
+    			<li class="li-top">客户服务热线：9:00-18:00</li>
+    			<li class="li-bottom">0593-7167171</li>
+    		</ul>	  		   		
+    	</div> 
+    	<!--用户注册-->
+		<div class="parent m-auto">
+			<div class="container mt-1 ml-5">
+				<div class="reg_top clearfix mb-3 border-bottom">
+					<h3 class="float-left">新用户注册</h3>
+					<p class="float-left">已有账号？</p>
+					<a class="float-left font-italic" href="login.html">立即登录</a>
+				</div>									
+				<form>
+					<div class="form-group mb-4">
+						<label class="text-right">用户名：</label>
+						<input id="uname" type="text" placeholder="请输入您的用户名">
+					</div>
+					<div class="form-group mb-4">
+						<label>登录密码：</label>
+						<input id="upwd" type="password" placeholder="请输入登录密码">
+					</div>
+					<div class="form-group mb-4">
+						<label>确认密码：</label>
+						<input id="email" type="text" placeholder="请输入确认密码">
+					</div>
+					<div class="form-group mb-4">
+						<label class="text-right">邮箱：</label>
+						<input id="phone" type="text" placeholder="请输入您的邮箱">
+					</div>
+					<div class="form-group mb-4">
+						<label class="text-right">手机号：</label>
+						<input id="user_name" type="text" placeholder="请输入您的手机号">
+					</div>
+					<div class="checkbox ml-5 mb-3">
+						<input type="checkbox" id="check_info"/>
+							<label for="check_info">
+								我已阅读并服务条款：
+							</label>
+						<a  href="#"><<汪星人萌宠商城服务协议>></a>
+					</div>
+					<div class="form-group mb-4">
+						<input class="btn text-white" type="button" value="立即注册">
+					</div>
+				</form> 
+			</div>
+		</div>
+	</body>
+</html>	

@@ -1,0 +1,74 @@
+        body{
+            color: #666;
+            background: #F1F1F1;
+            font: 12px Arial,"simhei";
+        }
+        /* header样式 */
+        /* 1.top样式 */
+        .top,.top_title{
+            width: 1100px;
+            height: 35px;
+            margin: 0 auto;
+        }
+        .mr-25{
+            margin-right: 25px;
+        }
+        .telep{
+            color: #f00;
+        }
+        .telephone{
+            color: #0f69dc;
+            text-decoration: underline;
+        }
+        .top ul{
+            background-color: transparent;
+        }
+        a{
+			color: #000;
+			text-decoration: none;
+		}
+        /* 2.商品搜索 */
+       .top_title{
+			height: 160px;
+		}
+		.top_title div{
+			float: left;
+		}
+		.title img{
+			width: 400px;
+			margin-top: 14px;		
+		}
+		.top_input{
+			margin-top:37px;
+		}
+		.top_input p>a{			
+    		font-size: 14px;
+		}	
+		.input_search{			
+			width: 300px;
+    		border: 2px #f60 solid;
+    		height: 36px;
+    		position: relative;
+    		border-radius: 3px 0 0 3px;
+    		font-family: "Microsoft YaHei";
+    		font-size: 12px;
+		}
+		.bt{			
+    		width: 80px;
+    		height: 36px;
+    		line-height: 36px;
+    		text-align: center;    		    		  		
+    		font-size: 16px;   		  		
+    		background: #ff6600;
+    		transition-duration: 0.3s;
+    		border-radius: 0 3px 3px 0;  		
+		}			
+		.my-cart {
+    		width: 128px;
+    		height: 39px;
+    		line-height: 34px;
+    		font-size: 15px;
+    		border: 2px solid #ff6600;
+    		border-radius: 3px;
+    		margin: 36px 0 0 86px;
+		}
