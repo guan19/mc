@@ -1,74 +1,120 @@
-        body{
-            color: #666;
-            background: #F1F1F1;
-            font: 12px Arial,"simhei";
-        }
-        /* header样式 */
-        /* 1.top样式 */
-        .top,.top_title{
-            width: 1100px;
-            height: 35px;
-            margin: 0 auto;
-        }
-        .mr-25{
-            margin-right: 25px;
-        }
-        .telep{
-            color: #f00;
-        }
-        .telephone{
-            color: #0f69dc;
-            text-decoration: underline;
-        }
-        .top ul{
-            background-color: transparent;
-        }
-        a{
-			color: #000;
-			text-decoration: none;
-		}
-        /* 2.商品搜索 */
-       .top_title{
-			height: 160px;
-		}
-		.top_title div{
-			float: left;
-		}
-		.title img{
-			width: 400px;
-			margin-top: 14px;		
-		}
-		.top_input{
-			margin-top:37px;
-		}
-		.top_input p>a{			
-    		font-size: 14px;
-		}	
-		.input_search{			
-			width: 300px;
-    		border: 2px #f60 solid;
-    		height: 36px;
-    		position: relative;
-    		border-radius: 3px 0 0 3px;
-    		font-family: "Microsoft YaHei";
-    		font-size: 12px;
-		}
-		.bt{			
-    		width: 80px;
-    		height: 36px;
-    		line-height: 36px;
-    		text-align: center;    		    		  		
-    		font-size: 16px;   		  		
-    		background: #ff6600;
-    		transition-duration: 0.3s;
-    		border-radius: 0 3px 3px 0;  		
-		}			
-		.my-cart {
-    		width: 128px;
-    		height: 39px;
-    		line-height: 34px;
-    		font-size: 15px;
-    		border: 2px solid #ff6600;
-    		border-radius: 3px;
-    		margin: 36px 0 0 86px;
-		}
+body {
+	font: 12px Arial,"simhei";
+}
+/* header样式 */
+/* 1.页面顶部样式 */
+.top-clear,.top-ul{
+	line-height: 30px;
+}
+.top-in{
+	margin-right: 25px;
+}
+.telephone{
+	color: #0f69dc;
+	text-decoration: underline;
+}
+.top-ul{
+	width: 763px;
+	justify-content: flex-end;
+}
+.top-li{
+	margin: 0 6px;
+}
+
+/* 2.商品搜索样式 */
+.top_title{
+	height: 120px;
+	background: white;
+}
+.title img{
+	width: 400px;
+	margin-top: 14px;		
+}
+.top_input{
+	margin-top: 37px;
+	margin-left: 3rem;
+}
+.input_search{			
+	width: 300px;
+	outline: none;
+  border: 2px #f60 solid;
+  height: 36px;
+  border-radius: 3px 0 0 3px;
+  font-family: "Microsoft YaHei";
+	font-size: 12px;
+	padding-left: 1rem;
+}
+.btn{			
+  width: 80px;
+	height: 42px;
+	color: #fff;
+  line-height: 42px;
+  text-align: center;    		    		  		
+  font-size: 16px;   		  		
+  background: #ff6600;
+  transition-duration: 0.3s;
+	border-radius: 0 3px 3px 0;  
+	border: none;	
+	outline: none;	
+}	
+.btn:active{
+	background: #0073ff;
+}
+.top_input>p{
+	font-size: 14px;
+	margin-right: 1.5rem;
+	margin-top: 0.5rem;
+}
+.top_input>p>a:not(:last-child){
+	margin-right: 1rem;
+}
+.my-cart {
+  width: 128px;
+  height: 39px;
+  line-height: 34px;
+  font-size: 15px;
+  border: 2px solid #ff6600;
+  border-radius: 3px;
+	margin: 36px 0 0 86px;
+}
+.my-cart>img{
+	right: 84px;
+}
+.my-cart>a{
+	top: 3px;
+	right: 8px;
+}
+/* 3.导航搜索样式 */
+.nav{
+	background: #ff6600;
+}
+.nav-top,.nav-li{
+  height: 35px;
+}
+.nav-li{
+	width: 156px;
+	background-color: #db5200;
+	cursor: pointer;
+}
+.nav-ul li{
+	text-align: center;
+	line-height: 35px;
+	margin-right: 30px;	
+}
+.cate1{
+	width: 16px;
+	height: 13px;
+}
+.nav-li>p{
+	width: 74px;
+	font-size: 18px;	
+	text-align: center;
+}
+.nav-li img{
+	margin-left: 29px;
+}
+.nav-fs a,.nav-li>p{
+	color: #fff;
+	font-weight: 600;	
+}
+

@@ -3,48 +3,46 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>萌宠商城登录页面</title>
-		<link rel="stylesheet" href="../css/bootstrap.css"/>
-		<link rel="stylesheet" href="../css/login.css"/>		
+		<link rel="stylesheet" href="../css/login.css"/>	
+		<link rel="stylesheet" href="../css/comm.css"/>	
 	</head>
 	<body>
-		<!-- header部分 -->
-		
+		<!-- header部分 -->		
     <!--logo部分-->
-    <div class="logo position-relative bg-white m-auto">
+    <div class="logo relative ma w-1100">
     	<a href="index.html">
-    		<img class="img1 m-0" src="../images/index/logo.png"/>
+    		<img class="img1" src="../images/index/logo.png"/>
     	</a>
-    	<img class="position-absolute" src="../images/login/tel.png" alt="" />
-    	<ul class="position-absolute list-unstyled">
+    	<img class="absolute" src="../images/login/tel.png" alt="" />
+    	<ul class="absolute">
     		<li class="li-top">客户服务热线：9:00-18:00</li>
     		<li class="li-bottom">0593-7167171</li>
     	</ul>	  		   		
     </div> 
     <!--登录部分-->
-		<div class="parent m-auto p-5">
-			<div class="container bg-white m-5 p-5">
-				<div class="login_top clearfix border-bottom mb-4">
-					<h3 class="float-left mr-2">账号登录</h3>
-					<p>
-						<span class="ml-5">还没有账号?</span>
-						<a class="font-italic" href="reg.html">免费注册</a>
-					</p>
-				</div>
-				<input class="login_name mb-4 w-100 border" type="text" name="uname" id="uname" 
+		<div class="parent ma w-1100">
+			<div class="container">
+				<ul class="log_top clear mb4">
+					<li class="log-1 fl ft16">账号登录</li>
+					<li class="log-2 fl ft12">还没有账号?</p>
+					<li class="log-3 fl ft12">
+						<a href="reg.html">免费注册</a>
+					</li>
+				</ul>									
+				<input class="log_name mb4" type="text" name="uname" id="uname" 
 					placeholder="请输入用户名" />			
-				<input class="login_pwd mb-4 w-100 border" type="password" name="upwd" id="upwd" 
+				<input class="log_pwd mb4" type="password" name="upwd" id="upwd" 
 					placeholder="请输入密码" />
 				<p>
 					<input type="checkbox" name="" id="check_login" value="" />
-						<label for="check_login">
+						<label class="ft12" for="check_login">
 							自动登录
 						</label>
-					<a class="float-right" href="#">忘记密码？</a>
+					<a class="rt ft12" href="#">忘记密码？</a>
 				</p>
-				<input class="btn text-white " type="button" value="登录" />
+				<input class="btn" type="button" value="登录" />
 			</div>
 		</div>
-		<!-- footer部分 -->
-		   	
+		<!-- footer部分 -->		   	
 	</body>
 </html>

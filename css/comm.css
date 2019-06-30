@@ -1,6 +1,70 @@
-body{
-    background: #F1F1F1;           	
+/*设置通用样式*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
-.my_header,.my_footer{
-	width: 100%;
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd,dt,button{
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #666;
+    background: #F1F1F1;
+}
+/* 设置a标签 */
+a{
+    color: #000;
+    text-decoration: none;
+}
+a:hover{
+    cursor: pointer;
+    text-decoration: none;
+}
+/* 设置图片 */
+img{
+    border: 0px;
+}
+/* 设置ul列表 */
+ul{
+    list-style: none;
+    display: flex;  
+}
+/* 设置浮动 */
+.lf {
+    float: left;
+}
+.rt {
+    float: right;
+}
+.clear:after{
+    content:"";
+    display: block;
+    clear: both;
+}
+/* 设置内外边距 */
+.ma{
+    margin: auto;
+}
+/* 设置宽度 */
+.w-1100{
+    width: 1100px;
+}
+.w-100{
+    width: 100%;
+}
+/* 设置颜色 */
+.red{
+    color:#f00;
+}
+/* 设置定位 */
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+/* 设置文本 */
+.ft16{
+    font-size: 16px;
 }
