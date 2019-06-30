@@ -42,6 +42,9 @@ ul{
     display: block;
     clear: both;
 }
+.clear-both{
+    clear: both;
+}
 /* 设置内外边距 */
 .ma{
     margin: auto;
