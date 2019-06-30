@@ -1,0 +1,42 @@
+/* banner部分 */
+.banner{
+  height: 475px;
+  border: 1px solid #f00;
+}
+
+/* section部分 */
+.new{
+  display: flex;
+  background: #fff;
+}
+.w280{
+  width: 480px;
+}
+.new1{
+  width: 45px;
+  height: 45px;
+  background: url(../images/index/index_licfeli.png) no-repeat;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  margin-top: 5px;
+  margin-right: 0;
+}
+.new2{
+  width: 45px;
+  height: 45px;
+  background: url(../images/index/index_licfeli.png) no-repeat;
+  background-position-x: 89%;
+  background-position-y: 0%;
+  margin-top: 5px;
+}
+.new1_title{
+  line-height: 30px;
+  font-size: 14px;
+  color: #333;
+  font-weight: 600;
+}
+.new1_info{
+  font-size: 12px;
+  color: #333333;
+}
+
