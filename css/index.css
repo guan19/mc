@@ -5,6 +5,7 @@
 }
 
 /* section部分 */
+/* 服务消息 */
 .new{
   display: flex;
   background: #fff;
@@ -25,7 +26,7 @@
   padding: 5px 10px;
   margin-top: 15px;
 }
-.new1{
+.new1,.new2{
   width: 45px;
   height: 45px;
   background: url(../images/index/index_licfeli.png) no-repeat;
@@ -34,12 +35,7 @@
   margin-top: 5px;
 }
 .new2{
-  width: 45px;
-  height: 45px;
-  background: url(../images/index/index_licfeli.png) no-repeat;
   background-position-x: 89%;
-  background-position-y: 0%;
-  margin-top: 5px;
 }
 .new1_title{
   line-height: 30px;
@@ -63,9 +59,116 @@
 .new-content ul li a{
   line-height: 30px;
 }
-/*  */
+/* 狗狗市场 */
 .ad img{
   width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* 优质推荐 */
+.main_title{
+  height: 68px;
+  background: #fff;
+  padding: 0 25px;
+  border: 1px solid #eee;
+}
+.main_title h2 {
+  line-height: 68px;
+  font-size: 20px;
+  color: #333;
+}
+.main_title h2 a:hover {
+  color: #FF6600;
+}
+.main_title p {
+  height: 14px;
+  line-height: 14px;
+  font-size: 14px;
+  text-align: right;
+  margin-top: 32px;
+}
+.main_title p a {
+  margin-left: 20px;
+  color: #999;
+}
+/* main_content部分 */
+.main_content {
+  height: 480px;
+  background: #fff;
+}
+.main_content_left {
+  width: 250px;
+  height: 100%;
+}
+.main_content_left_ad {
+  width: 249px;
+  height: 239px;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  overflow: hidden;
+}
+.main_content_left_ad img {
+  width: 249px;
+  height: 239px;
+}
+.main_content_left_ad:hover img{
+  transition: 0.2s; 
+  transform: scale(1.1); 
+  transition: all 1s ease 0s;
+  transform: scale(1.1);
+  transform: all 1s ease 0s;
+}
+.adicon {
+  background: url(../images/index/adicon.png) no-repeat;
+  bottom: 0;
+  width: 37px;
+  height: 17px;
+}
+.main_content_left ul {
+  display: block;
+  border-bottom: 1px solid #eee;
+  height: 239px;
+  overflow: hidden;
+}
+.main_content_left ul li {
+  width: 124px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 12px;
+  overflow: hidden;
+  text-indent: 15px;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+.main_content_left ul li:hover {
+  background: #F6F6F6;
+}
+.main_content_left ul li a {
+  width: 94%;
+  height: 100%;
+  display: block;
+  color: #999;
+}
+.main_content_left ul li:hover a {
+  color: #ff6600;
+  text-indent: 10px;
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+.floor{
+  height: 400px;
+  border: 1px solid #eee;
+  margin-top: 20px;
+}
