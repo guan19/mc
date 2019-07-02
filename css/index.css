@@ -59,12 +59,6 @@
 .new-content ul li a{
   line-height: 30px;
 }
-/* 狗狗市场 */
-.ad img{
-  width: 100%;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
 /* 优质推荐 */
 .main_title{
   height: 68px;
@@ -93,9 +87,12 @@
 }
 /* main_content部分 */
 .main_content {
-  height: 480px;
+  height: 478px;
   background: #fff;
+  display: flex;
+  left:-115px;
 }
+/* main_content_left部分 */
 .main_content_left {
   width: 250px;
   height: 100%;
@@ -153,8 +150,35 @@
   color: #ff6600;
   text-indent: 10px;
 }
-
-
+/* main_content_center部分 */
+.main_content_center {
+  width: 720px;
+  height: 100%;
+}
+.main_content_img {
+  width: 269px;
+  vertical-align: middle;
+  overflow: hidden;
+  margin-bottom: 13px;
+}
+.mb4{
+  margin-bottom: 4px;
+}
+.main_content_center li {
+  /* float: left; */
+  width: 294px;
+  /* height: 210px; */
+  padding: 10px 7px 10px 7px;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+.through {
+  text-decoration: line-through;
+}
+/* 猜你喜欢 */
+.mt12{
+  margin: 12px 0 0 12px;
+}
 
 
 

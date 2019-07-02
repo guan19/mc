@@ -56,10 +56,22 @@ ul{
 .w-100{
     width: 100%;
 }
+.mt20{
+    margin-top: 20px;
+}
+.mb20{
+    margin-bottom: 20px;
+}
 /* 设置颜色 */
 .red{
     color:#f00;
 }
+.white{
+    color: #fff;
+}
+.c999{
+    color: #999;
+  }
 /* 设置定位 */
 .relative{
     position: relative;
@@ -68,6 +80,15 @@ ul{
     position: absolute;
 }
 /* 设置文本 */
+.ft10{
+    font-size: 10px;
+}
+.ft12{
+    font-size: 12px;
+}
+.ft14{
+    font-size: 14px;
+}
 .ft16{
     font-size: 16px;
 }
