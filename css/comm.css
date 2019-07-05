@@ -1,9 +1,9 @@
 /*设置通用样式*/
-*,
+/* *,
 *::before,
 *::after {
   box-sizing: border-box;
-}
+} */
 body,p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd,dt,button{
     margin: 0;
     padding: 0;
@@ -47,7 +47,7 @@ ul{
 }
 /* 设置内外边距 */
 .ma{
-    margin: auto;
+    margin:0 auto;
 }
 /* 设置宽度 */
 .w-1100{
@@ -91,4 +91,7 @@ ul{
 }
 .ft16{
     font-size: 16px;
+}
+.ft20{
+    font-size: 20px;
 }
