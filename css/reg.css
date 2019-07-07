@@ -1,3 +1,8 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 body{
     background: #F1F1F1;           	
 }
@@ -36,15 +41,15 @@ body{
 	color: #000;
 	width: 516px;
 	height: 465px;	
-	margin-left: 3rem;													
+	margin-left: 48px;													
 }
 .reg_top{
 	border-bottom: 1px solid #dee2e6;
-	margin-bottom: 1rem;
+	margin-bottom: 16px;
 }	
 .reg-1 {
 	color: #000;
-	font-size: 1.75rem;
+	font-size: 28px;
   font-weight: 500;
 	width: 300px;	
 	margin: 20px 0 20px 20px;	       						
@@ -60,11 +65,10 @@ body{
 	margin-top: 30px;
 }
 .mb4{
-	margin-bottom: 1.5rem;
+	margin-bottom: 24px;
 }
 .form-group label {
-    width: 70px;   			
-		font-size: 14px;	
+  width: 70px;   				
 }
 .ml14{
 	margin-left: 14px;
@@ -74,24 +78,21 @@ body{
 }
 .form-group input {
 		width: 280px;
-    height: 36px;
-    font-size: 12px; 
+    height: 36px; 
     border: 1px solid #dadada;
     line-height: 36px;
 		padding: 0 10px;  		
 }
 .check{
-	font-size: 12px;
-	margin-left: 3rem;	
-	margin-bottom: 1.5rem;			
+	margin-left: 48px;	
+	margin-bottom: 24px;			
 }
 .check a{
 	color: #f00;				
 }
 .btn{
 	color: #fff;
-	width: 200px;
-	font-size: 14px;	
+	width: 200px;	
 	letter-spacing: 5px;
 	background-color: #ffb000;
 	margin-left: 100px;

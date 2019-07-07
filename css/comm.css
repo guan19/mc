@@ -1,9 +1,4 @@
 /*设置通用样式*/
-/* *,
-*::before,
-*::after {
-  box-sizing: border-box;
-} */
 body,p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd,dt,button{
     margin: 0;
     padding: 0;
@@ -56,11 +51,30 @@ ul{
 .w-100{
     width: 100%;
 }
+/* 设置边距 */
+.mr5{
+    margin-right: 5px;
+}
+.mt10{
+    margin-top: 10px;
+}
+.mb10{
+    margin-bottom: 10px;
+}
+.ml10{
+    margin-left: 10px;
+}
+.mr10{
+    margin-right: 10px;
+}
 .mt20{
     margin-top: 20px;
 }
 .mb20{
     margin-bottom: 20px;
+}
+.ml20{
+    margin-left: 20px;
 }
 /* 设置颜色 */
 .red{
@@ -92,6 +106,18 @@ ul{
 .ft16{
     font-size: 16px;
 }
+.ft18{
+    font-size: 18px;
+}
 .ft20{
     font-size: 20px;
+}
+.bold {
+    font-weight: 700;
+}
+.price_font{
+    font-size: 34px;
+}
+.through {
+    text-decoration: line-through;
 }

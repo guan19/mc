@@ -26,7 +26,6 @@ body {
 .top-li a:hover{
 	color: #ff6600;
 }
-
 /* 2.商品搜索样式 */
 .top_title{
 	height: 120px;
@@ -38,7 +37,7 @@ body {
 }
 .top_input{
 	margin-top: 37px;
-	margin-left: 3rem;
+	margin-left: 16px;
 }
 .input_search{			
 	width: 300px;
@@ -47,8 +46,7 @@ body {
   height: 36px;
   border-radius: 3px 0 0 3px;
   font-family: "Microsoft YaHei";
-	font-size: 12px;
-	padding-left: 1rem;
+	padding-left: 16px;
 }
 .btn{			
   width: 80px;
@@ -71,7 +69,6 @@ body {
 }
 .top_input>p>a{
 	color: #999;
-	font-size: 14px;
 	margin-left: 4px;
 }
 .top_input>p>a:hover{
@@ -119,7 +116,6 @@ body {
 }
 .nav-li>p{
 	width: 74px;
-	font-size: 18px;	
 	text-align: center;
 }
 .nav-li img{

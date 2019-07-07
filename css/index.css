@@ -3,7 +3,6 @@
   height: 475px;
   border: 1px solid #f00;
 }
-
 /* section部分 */
 /* 服务消息 */
 .new{
@@ -14,14 +13,8 @@
   width: 415px;
   height: 200px;
   padding: 0 8px;
-  float: left;
-  margin-left: 10px;
-}
-.ml10{
-  margin-left: 10px;
 }
 .new-nav{
-  font-size: 12px;
   border: 1px solid #eee;
   padding: 5px 10px;
   margin-top: 15px;
@@ -39,21 +32,17 @@
 }
 .new1_title{
   line-height: 30px;
-  font-size: 14px;
   color: #333;
   font-weight: 600;
 }
 .new1_info{
-  font-size: 12px;
   color: #333333;
 }
 .new-content{
   height: 120px;
-  margin-top: 10px; 
 }
 .new-content ul{
   width: 440px;
-  font-size: 14px;
   flex-direction: column;
 }
 .new-content ul li a{
@@ -68,7 +57,6 @@
 }
 .main_title h2 {
   line-height: 68px;
-  font-size: 20px;
   color: #333;
 }
 .main_title h2 a:hover {
@@ -77,12 +65,10 @@
 .main_title p {
   height: 14px;
   line-height: 14px;
-  font-size: 14px;
   text-align: right;
   margin-top: 32px;
 }
-.main_title p a {
-  margin-left: 20px;
+.main_title p a { 
   color: #999;
 }
 /* main_content部分 */
@@ -130,7 +116,6 @@
   width: 124px;
   height: 40px;
   line-height: 40px;
-  font-size: 12px;
   overflow: hidden;
   text-indent: 15px;
   border-right: 1px solid #eee;
@@ -169,9 +154,6 @@
   border-right: 1px solid #eee;
   border-bottom: 1px solid #eee;
 }
-.through {
-  text-decoration: line-through;
-}
 /* 猜你喜欢 */
 .mt12{
   margin: 12px 0 0 12px;
@@ -191,47 +173,4 @@
 }
 .w-360{
   width: 360px;
-}
-.mr5{
-  margin-right: 5px;
-}
-/* .main_content_price{
-  color: #ff6000;
-  font-size: 20px;
-}
-.main_content_p2{
-  font-size: 12px;
-  color: #333;
-}
-.main_content_blue{
-  color: #23b7ff;
-  border: 1px solid #23b7ff;
-}
-.main_content_green {
-  color: #24b895;
-  border: 1px solid #24b895;
-}
-.main_content_orange {
-  color: #ff6000;
-  border: 1px solid #ff6000;
-}
-.mlr10{
-  margin: 0 4px;
-} */
-
-
-
-
-
-
-
-
-
-
-
-
-.floor{
-  height: 400px;
-  border: 1px solid #eee;
-  margin-top: 20px;
 }

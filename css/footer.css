@@ -8,7 +8,7 @@ body{
 }
 /* top部分样式 */
 .footer-top,.footer-main,.footer-bot{
-	width: 1100px;   
+		width: 1100px;   
     margin: auto;
 }
 ul{
