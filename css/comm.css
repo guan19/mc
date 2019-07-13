@@ -76,16 +76,9 @@ ul{
 .ml20{
     margin-left: 20px;
 }
-/* 设置颜色 */
-.red{
-    color:#f00;
+.mr20{
+    margin-right: 20px;
 }
-.white{
-    color: #fff;
-}
-.c999{
-    color: #999;
-  }
 /* 设置定位 */
 .relative{
     position: relative;
@@ -120,4 +113,17 @@ ul{
 }
 .through {
     text-decoration: line-through;
+}
+/* 设置字体颜色 */
+.red{
+    color:#f00;
+}
+.white{
+    color: #fff;
+}
+.c999{
+    color: #999;
+}
+.c666{
+    color: #666;
 }
