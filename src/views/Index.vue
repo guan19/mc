@@ -18,17 +18,21 @@
           <a class="new-nav rt ft12" href="#">全部信息</a>
           <div class="clear-both"></div>
           <div class="new-content mt10">
-            <ul class="ft14">
-                <li><a href="#">四川&emsp;法国斗牛犬&emsp;2000.00&emsp;2针疫苗&emsp;帕帕拉兹萌宠</a></li>
-                <li><a href="#">河北&emsp;萨摩耶&emsp;1308.00&emsp;3针疫苗&emsp;爱宠小铺</a></li>
-                <li><a href="#">四川&emsp;阿拉斯加&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
-                <li><a href="#">四川&emsp;哈士奇&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
-                <li><a href="#">四川&emsp;比熊犬&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
-                <li><a href="#">四川&emsp;法国斗牛犬&emsp;2000.00&emsp;2针疫苗&emsp;帕帕拉兹萌宠</a></li>
-                <li><a href="#">河北&emsp;萨摩耶&emsp;1308.00&emsp;3针疫苗&emsp;爱宠小铺</a></li>
-                <li><a href="#">四川&emsp;阿拉斯加&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
-                <li><a href="#">四川&emsp;哈士奇&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
-                <li><a href="#">四川&emsp;比熊犬&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
+            <ul class="ft14 ul">
+              <li><a href="#">四川&emsp;法国斗牛犬&emsp;2000.00&emsp;2针疫苗&emsp;帕帕拉兹萌宠</a></li>
+              <li><a href="#">河北&emsp;萨摩耶&emsp;1308.00&emsp;3针疫苗&emsp;爱宠小铺</a></li>
+              <li><a href="#">四川&emsp;阿拉斯加&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
+              <li><a href="#">四川&emsp;哈士奇&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
+              <li><a href="#">四川&emsp;比熊犬&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
+							<li><a href="#">四川&emsp;法国斗牛犬&emsp;2000.00&emsp;2针疫苗&emsp;帕帕拉兹萌宠</a></li>
+              <li><a href="#">河北&emsp;萨摩耶&emsp;1308.00&emsp;3针疫苗&emsp;爱宠小铺</a></li>
+              <li><a href="#">四川&emsp;阿拉斯加&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直</a></li>
+              <li><a href="#">四川&emsp;哈士奇&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
+              <li><a href="#">四川&emsp;比熊犬&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>	
+							<li><a href="#">四川&emsp;法国斗牛犬&emsp;2000.00&emsp;2针疫苗&emsp;帕帕拉兹萌</a></li>
+							<li><a href="#">河北&emsp;萨摩耶&emsp;1308.00&emsp;3针疫苗&emsp;爱宠小铺</a></li>
+              <li><a href="#">四川&emsp;阿拉斯加&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直</a></li>
+              <li><a href="#">四川&emsp;哈士奇&emsp;0.00&emsp;2针疫苗&emsp;全国狗狗直销</a></li>
             </ul>
           </div>
         </div>
@@ -40,17 +44,21 @@
             </div>           
             <div class="clear-both"></div>
             <div class="new-content mt10">
-              <ul class="ft14">
-                  <li><a href="#">5分钟前&emsp;江苏的温女士&emsp;成功购买一只腊肠&emsp;价格3586元</a></li>
-                  <li><a href="#">5分钟前&emsp;海南的雷女士&emsp;成功购买一只巴厘猫&emsp;价格3297元</a></li>
-                  <li><a href="#">5分钟前&emsp;贵州的曹女士&emsp;成功购买一只萨摩耶&emsp;价格3262元</a></li>
-                  <li><a href="#">10分钟前&emsp;广东的麹先生&emsp;成功购买一只萨摩耶&emsp;价格548元</a></li>
-                  <li><a href="#">20分钟前&emsp;河南的谈先生&emsp;成功购买一只萨摩耶&emsp;价格1941元</a></li>
-                  <li><a href="#">5分钟前&emsp;江苏的温女士&emsp;成功购买一只腊肠&emsp;价格3586元</a></li>
-                  <li><a href="#">5分钟前&emsp;海南的雷女士&emsp;成功购买一只巴厘猫&emsp;价格3297元</a></li>
-                  <li><a href="#">5分钟前&emsp;贵州的曹女士&emsp;成功购买一只萨摩耶&emsp;价格3262元</a></li>
-                  <li><a href="#">10分钟前&emsp;广东的麹先生&emsp;成功购买一只萨摩耶&emsp;价格548元</a></li>
-                  <li><a href="#">20分钟前&emsp;河南的谈先生&emsp;成功购买一只萨摩耶&emsp;价格1941元</a></li>
+              <ul class="ft14 ul">
+                <li><a href="#">5分钟前&emsp;江苏的温女士&emsp;成功购买一只腊肠&emsp;价格3586元</a></li>
+                <li><a href="#">5分钟前&emsp;海南的雷女士&emsp;成功购买一只巴厘猫&emsp;价格3297</a></li>
+                <li><a href="#">5分钟前&emsp;贵州的曹女士&emsp;成功购买一只萨摩耶&emsp;价格3262</a></li>
+                <li><a href="#">10分钟前&emsp;广东的麹先生&emsp;成功购买一只萨摩耶&emsp;价格548</a></li>
+                <li><a href="#">20分钟前&emsp;河南的谈先生&emsp;成功购买一只萨摩耶&emsp;价格194元</a></li>
+								<li><a href="#">5分钟前&emsp;江苏的温女士&emsp;成功购买一只腊肠&emsp;价格3586</a></li>
+                <li><a href="#">5分钟前&emsp;海南的雷女士&emsp;成功购买一只巴厘猫&emsp;价格3297</a></li>
+                <li><a href="#">5分钟前&emsp;贵州的曹女士&emsp;成功购买一只萨摩耶&emsp;价格3262</a></li>
+                <li><a href="#">10分钟前&emsp;广东的麹先生&emsp;成功购买一只萨摩耶&emsp;价格548</a></li>
+                <li><a href="#">20分钟前&emsp;河南的谈先生&emsp;成功购买一只萨摩耶&emsp;价格194元</a></li>
+								<li><a href="#">5分钟前&emsp;江苏的温女士&emsp;成功购买一只腊肠&emsp;价格3586</a></li>
+                <li><a href="#">5分钟前&emsp;海南的雷女士&emsp;成功购买一只巴厘猫&emsp;价格3297</a></li>
+                <li><a href="#">5分钟前&emsp;贵州的曹女士&emsp;成功购买一只萨摩耶&emsp;价格3262</a></li>
+                <li><a href="#">10分钟前&emsp;广东的麹先生&emsp;成功购买一只萨摩耶&emsp;价格548</a></li>
               </ul>
             </div>
         </div>
@@ -539,6 +547,25 @@
   </div>
 </template>
 <script>
+var ul=document.getElementsByClassName("ul");
+var tt=0;
+var t;
+function ad(){
+  t=setInterval(function(){
+    tt-=1;
+    ul[0].style.marginTop=tt+"px";
+    if(tt==-300){
+      tt=0;
+      ul[0].style.marginTop=tt+"px";
+    }
+		ul[1].style.marginTop=tt+"px";
+    if(tt==-300){
+      tt=0;
+      ul[1].style.marginTop=tt+"px";
+    }
+  },20)  
+}
+ad();      
 export default {
   data(){
     return {
@@ -577,41 +604,6 @@ export default {
 <style>
 @import url("./../../public/css/comm.css");
 /* 服务消息 */
-@keyframes ticker {
-  0% {
-    margin-top: 0;
-  }
-  10% {
-    margin-top: -30px;
-  }
-  20% {
-    margin-top: -60px;
-  }
-  30% {
-    margin-top: -90px;
-  }
-  40% {
-    margin-top: -120px;
-  }
-	50% {
-    margin-top: -150px;
-  }
-	60% {
-    margin-top: -180px;
-  }
-	70% {
-    margin-top: -210px;
-  }
-	80% {
-    margin-top: -240px;
-  }
-	90% {
-    margin-top: -270px;
-  }
-	100% {
-    margin-top: 0;
-  }
-}
 .new{
   display: flex;
   background: #fff;
@@ -651,14 +643,11 @@ export default {
 }
 .new-content ul{
   width: 440px;
+  height:310px;
   flex-direction: column;
-  animation: ticker 20s cubic-bezier(1, 0, 0.5, 0) infinite;
 }
 .new-content ul li a{
   line-height: 30px;
-}
-.new-content ul:hover {
-  animation-play-state: paused;
 }
 /* 优质推荐 */
 .main_title{

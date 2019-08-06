@@ -19,9 +19,9 @@
         <div class="my_cart_img mb10">
           <img id="mImg" src="../../public/images/details/246990.jpg" alt="">
           <div id="mask" class="absolute d-none"></div>
-          <div id="super-mask" class="absolute"></div>
-          <div id="div-lg" class="absolute d-none"></div>
+          <div id="super-mask" class="absolute"></div>         
         </div>
+        <div id="div-lg" class="absolute d-none"></div>
         <div class="text">
           <img class="cart_img mr5" src="../../public/images/details/304224.jpg" alt="">
           <img class="cart_img mr5" src="../../public/images/details/233332.jpg" alt="">
